@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Welcome</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Welcome</description>
+    <title>Welcome</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content on Welcome</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 14 Sep 2025 11:24:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>制作博客教程</title>
-      <link>http://localhost:1313/posts/make_boke/</link>
+      <link>http://localhost:1313/post/make_boke/</link>
       <pubDate>Sun, 14 Sep 2025 11:24:19 +0800</pubDate>
-      <guid>http://localhost:1313/posts/make_boke/</guid>
+      <guid>http://localhost:1313/post/make_boke/</guid>
       <description>&lt;p&gt;By GM-404&lt;/p&gt;&#xA;&lt;h3 id=&#34;一准备工作&#34;&gt;&lt;strong&gt;一、准备工作&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;安装 Hugo&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Windows&lt;/strong&gt;：&#xA;&lt;ul&gt;&#xA;&lt;li&gt;访问 &lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;Hugo Releases&lt;/a&gt; 下载最新的 &lt;code&gt;hugo_extended_xxx_Windows-64bit.zip&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;解压后将 &lt;code&gt;hugo.exe&lt;/code&gt; 所在文件夹添加到系统环境变量 &lt;code&gt;PATH&lt;/code&gt; 中&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;macOS&lt;/strong&gt;：&lt;code&gt;brew install hugo&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Linux&lt;/strong&gt;：&lt;code&gt;sudo apt install hugo&lt;/code&gt; 或通过源码编译&lt;/li&gt;&#xA;&lt;li&gt;验证安装：终端输入 &lt;code&gt;hugo version&lt;/code&gt;，显示版本号则成功&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;安装 Git&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
