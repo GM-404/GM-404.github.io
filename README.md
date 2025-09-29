@@ -14,8 +14,8 @@ hugo serve
 
 ## How to use
 
-- Change your site configuration in `hugo.toml`
-- Change your theme configuration in `config/_default/params.yml`
-- Change your post cover in `data/covers.yml`
-- Change your avatar in `static/avatar/avatar.webp`
-- Add your posts in `content/post`
+- 在 `hugo.toml` 中更改您的站点配置
+- 在 `config/_default/params.yml` 中更改您的主题配置
+- 在 `data/covers.yml` 中更改您的文章封面
+- 在 `static/avatar/avatar.webp` 中更改您的头像
+- 在 `content/post` 中添加您的文章
