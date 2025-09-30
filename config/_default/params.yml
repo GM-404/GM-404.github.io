@@ -21,12 +21,12 @@ menu:
 mainSections: ["post"]
 # 年，月，日及时间的格式化样式
 # Format style for year,month,date & time
-yearFormat: "2006"
-monthFormat: "2006-01"
-dateFormat: "2006-01-02"
+yearFormat: "2025"
+monthFormat: "2025-09"
+dateFormat: "2025-09-30"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
+author: GM-404
 email: xxx@example.com
 description: "小明祈祷中..."
 subtitle: "小明祈祷中..."
