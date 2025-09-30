@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://gm-404.github.io/'
 languageCode = 'en'
 title = '我的博客'
 theme = 'hugo-theme-reimu'
