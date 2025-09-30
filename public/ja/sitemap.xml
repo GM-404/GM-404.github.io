@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/ja/categories/</loc>
+    <loc>https://gm-404.github.io/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/categories/"
+                href="https://gm-404.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/categories/"
+                href="https://gm-404.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.org/zh-tw/categories/"
+                href="https://gm-404.github.io/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.org/ja/categories/"
+                href="https://gm-404.github.io/ja/categories/"
                 />
   </url><url>
-    <loc>https://example.org/ja/tags/</loc>
+    <loc>https://gm-404.github.io/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/tags/"
+                href="https://gm-404.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/tags/"
+                href="https://gm-404.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.org/zh-tw/tags/"
+                href="https://gm-404.github.io/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.org/ja/tags/"
+                href="https://gm-404.github.io/ja/tags/"
                 />
   </url><url>
-    <loc>https://example.org/ja/</loc>
+    <loc>https://gm-404.github.io/ja/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/"
+                href="https://gm-404.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.org/zh-cn/"
+                href="https://gm-404.github.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.org/zh-tw/"
+                href="https://gm-404.github.io/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.org/ja/"
+                href="https://gm-404.github.io/ja/"
                 />
   </url>
 </urlset>
