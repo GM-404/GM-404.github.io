@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en'
-title = 'My New Hugo Site'
+title = '欢迎来到我的博客'
 theme = 'hugo-theme-reimu'
 
 defaultContentLanguage = 'en'
