@@ -2,106 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gm-404.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-01T21:46:25+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://gm-404.github.io/ja/"
+                href="http://localhost:1313/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://gm-404.github.io/zh-cn/"
+                href="http://localhost:1313/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://gm-404.github.io/zh-tw/"
+                href="http://localhost:1313/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gm-404.github.io/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://gm-404.github.io/post/%E7%82%92%E8%82%A1%E6%97%A5%E8%AE%B0/</loc>
+    <loc>http://localhost:1313/post/%E7%82%92%E8%82%A1%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2025-10-01T21:46:25+08:00</lastmod>
   </url><url>
-    <loc>https://gm-404.github.io/post/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:1313/post/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-09-29T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>https://gm-404.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2022-07-26T21:46:25+08:00</lastmod>
   </url><url>
-    <loc>https://gm-404.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2022-07-26T21:46:25+08:00</lastmod>
   </url><url>
-    <loc>https://gm-404.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://gm-404.github.io/ja/categories/"
+                href="http://localhost:1313/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://gm-404.github.io/zh-cn/categories/"
+                href="http://localhost:1313/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://gm-404.github.io/zh-tw/categories/"
+                href="http://localhost:1313/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gm-404.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://gm-404.github.io/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>https://gm-404.github.io/post/markdown%E5%9F%BA%E6%9C%AC%E5%85%83%E7%B4%A0/</loc>
+    <loc>http://localhost:1313/post/markdown%E5%9F%BA%E6%9C%AC%E5%85%83%E7%B4%A0/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>https://gm-404.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://gm-404.github.io/ja/tags/"
+                href="http://localhost:1313/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://gm-404.github.io/zh-cn/tags/"
+                href="http://localhost:1313/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://gm-404.github.io/zh-tw/tags/"
+                href="http://localhost:1313/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gm-404.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://gm-404.github.io/categories/test/</loc>
+    <loc>http://localhost:1313/categories/test/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>https://gm-404.github.io/tags/test/</loc>
+    <loc>http://localhost:1313/tags/test/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>https://gm-404.github.io/post/chinese/</loc>
+    <loc>http://localhost:1313/post/chinese/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>https://gm-404.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>https://gm-404.github.io/friend/</loc>
+    <loc>http://localhost:1313/friend/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url>
 </urlset>
