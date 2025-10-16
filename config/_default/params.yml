@@ -21,10 +21,10 @@ menu:
 mainSections: ["post"]
 # 年，月，日及时间的格式化样式
 # Format style for year,month,date & time
-yearFormat: "2025"
-monthFormat: "2025-09"
-dateFormat: "2025-09-30"
-timeFormat: "2025-09-30 10:04:05"
+yearFormat: "2006"              # 显示年份
+monthFormat: "2006-01"          # 显示年-月
+dateFormat: "2006-01-02"        # 标准日期格式，显示 年-月-日
+timeFormat: "2006-01-02 15:04"  # 标准日期时间格式
 
 author: GM-404
 email: 19513317149@163.com
