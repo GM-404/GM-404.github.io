@@ -2,6 +2,7 @@
 title: markdown常见基础命令
 date:  2025-10-15
 lastmod: 2025-10-15
+draft: true
 ---
 
 # 一些插件
